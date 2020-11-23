@@ -1,4 +1,4 @@
-# Clone this repository to use it.</br>
+<h2>Clone this repository to use it.</h2></br>
 # Copy to your project "font" folder and "style.css" 
 (for convenience, you can rename the style file).</br>
 # Use the style names from "style.css" or from the demo version available by https://kapustiansky.github.io/geek-iconfont
