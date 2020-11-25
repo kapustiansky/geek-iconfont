@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icons';
   src:
-    url('fonts/icons.ttf?txxvk3') format('truetype'),
-    url('fonts/icons.woff?txxvk3') format('woff'),
-    url('fonts/icons.svg?txxvk3#icons') format('svg');
+    url('fonts/icons.ttf?d9wzd2') format('truetype'),
+    url('fonts/icons.woff?d9wzd2') format('woff'),
+    url('fonts/icons.svg?d9wzd2#icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,10 +24,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.geek-dust-bunny-done:before {
+.geek-dust-bunny-2:before {
   content: "\e954";
 }
-.geek-dust-bunny-danger:before {
+.geek-dust-bunny-1:before {
   content: "\e953";
 }
 .geek-dust-bunny-s:before {
