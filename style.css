@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'icons';
   src:
-    url('fonts/icons.ttf?wng5gt') format('truetype'),
-    url('fonts/icons.woff?wng5gt') format('woff'),
-    url('fonts/icons.svg?wng5gt#icons') format('svg');
+    url('fonts/icons.ttf?86joqe') format('truetype'),
+    url('fonts/icons.woff?86joqe') format('woff'),
+    url('fonts/icons.svg?86joqe#icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -24,6 +24,42 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.gk-darth-vader:before {
+  content: "\e955";
+}
+.gk-groot:before {
+  content: "\e959";
+}
+.gk-harry-potter:before {
+  content: "\e95a";
+}
+.gk-iron-man:before {
+  content: "\e95b";
+}
+.gk-bond-007:before {
+  content: "\e95c";
+}
+.gk-minions:before {
+  content: "\e95e";
+}
+.gk-psyduck:before {
+  content: "\e95f";
+}
+.gk-r2d2:before {
+  content: "\e960";
+}
+.gk-spiderman:before {
+  content: "\e961";
+}
+.gk-tic-tac-toe:before {
+  content: "\e962";
+}
+.gk-vulcan-salute:before {
+  content: "\e963";
+}
+.gk-avengers:before {
+  content: "\e965";
+}
 .gk-dust-bunny-2:before {
   content: "\e954";
 }
