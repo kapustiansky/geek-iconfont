@@ -1,3 +1,4 @@
+ ☝The library will be replenished as required!!!
 😃<h3>Clone this repository to use it.</h3></br>
 🙄<h3>Copy to your project "font" folder and "style.css" 
 (for convenience, you can rename the style file).</h3></br>
