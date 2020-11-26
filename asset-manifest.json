@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/geek-iconfont/static/css/main.024d9a82.chunk.css",
-    "main.js": "/geek-iconfont/static/js/main.1fa37f3a.chunk.js",
-    "main.js.map": "/geek-iconfont/static/js/main.1fa37f3a.chunk.js.map",
+    "main.js": "/geek-iconfont/static/js/main.001d1325.chunk.js",
+    "main.js.map": "/geek-iconfont/static/js/main.001d1325.chunk.js.map",
     "runtime-main.js": "/geek-iconfont/static/js/runtime-main.ce23efbb.js",
     "runtime-main.js.map": "/geek-iconfont/static/js/runtime-main.ce23efbb.js.map",
-    "static/js/2.b83b2c38.chunk.js": "/geek-iconfont/static/js/2.b83b2c38.chunk.js",
-    "static/js/2.b83b2c38.chunk.js.map": "/geek-iconfont/static/js/2.b83b2c38.chunk.js.map",
+    "static/js/2.e79e8978.chunk.js": "/geek-iconfont/static/js/2.e79e8978.chunk.js",
+    "static/js/2.e79e8978.chunk.js.map": "/geek-iconfont/static/js/2.e79e8978.chunk.js.map",
     "index.html": "/geek-iconfont/index.html",
     "static/css/main.024d9a82.chunk.css.map": "/geek-iconfont/static/css/main.024d9a82.chunk.css.map",
-    "static/js/2.b83b2c38.chunk.js.LICENSE.txt": "/geek-iconfont/static/js/2.b83b2c38.chunk.js.LICENSE.txt",
+    "static/js/2.e79e8978.chunk.js.LICENSE.txt": "/geek-iconfont/static/js/2.e79e8978.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "/geek-iconfont/static/media/icons.d84dab9b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ce23efbb.js",
-    "static/js/2.b83b2c38.chunk.js",
+    "static/js/2.e79e8978.chunk.js",
     "static/css/main.024d9a82.chunk.css",
-    "static/js/main.1fa37f3a.chunk.js"
+    "static/js/main.001d1325.chunk.js"
   ]
 }
